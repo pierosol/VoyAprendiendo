@@ -9,7 +9,10 @@ let AlCuadrado = (a) => console.log(a*a);
 AlCuadrado (4)*/
 
 
+let ayuda = "qué difícil es escribir código";
 
+let a=(ayuda)=> console.log (ayuda+". En serio, ayuda")
 
+a(ayuda);
 
 
